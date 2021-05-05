@@ -1,0 +1,7 @@
+Teo Yee Kang,teoyeekang@gmail.com,f5bb0c8de146c67b44babbf4e6584cc0,Customer
+admin,admin,f5bb0c8de146c67b44babbf4e6584cc0,Managing Staff
+John Wick,john@gmail.com,f5bb0c8de146c67b44babbf4e6584cc0,Delivery Staff
+customer,customer,f5bb0c8de146c67b44babbf4e6584cc0,Customer
+Delstaff,delstaff,f5bb0c8de146c67b44babbf4e6584cc0,Delivery Staff
+Customer2,2customer,f5bb0c8de146c67b44babbf4e6584cc0,Customer
+testCustom,testCustom2,202cb962ac59075b964b07152d234b70,Customer

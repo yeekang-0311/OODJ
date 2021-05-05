@@ -1,0 +1,3 @@
+username,user email,hashed password,role
+Order ID1|Customer Email2|Order Date Time3|price4|Sender Name5|Sender Address6|Recipient Name7|Recipient Address8|Dimensions9|Weight10|Pickup Date11|Status12|pickupStaff Mail|deliveryStaff Mail
+name,email,feedback,role

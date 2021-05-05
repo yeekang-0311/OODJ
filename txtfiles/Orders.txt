@@ -1,0 +1,11 @@
+124124126|2customer|03/12/2000 23:59|69.0|Keanu|30, Jalan Puteri, 6/7 Bandar Puteri, 47100 Puchong Selangor|Zanne|50, Jalan Durian, 69/9 Bandar Limau, 47100 Puchong Selangor|40x40x40|20|11/03/2000|Delievered|delstaff|delstaff
+124124127|2customer|04/12/2000 23:59|210.0|Keanu|30, Jalan Puteri, 6/7 Bandar Puteri, 47100 Puchong Selangor|Zanne|50, Jalan Durian, 69/9 Bandar Limau, 47100 Puchong Selangor|40x40x40|5|11/03/2000|Delievered|delstaff|delstaff
+124124128|2customer|08/12/2000 23:59|210.0|Keanu|30, Jalan Puteri, 6/7 Bandar Puteri, 47100 Puchong Selangor|Zanne|50, Jalan Durian, 69/9 Bandar Limau, 47100 Puchong Selangor|40x40x40|5|11/03/2000|Delievered|delstaff|delstaff
+124124129|2customer|12/12/2000 23:59|210.0|Keanu|30, Jalan Puteri, 6/7 Bandar Puteri, 47100 Puchong Selangor|Zanne|50, Jalan Durian, 69/9 Bandar Limau, 47100 Puchong Selangor|40x40x40|6|11/03/2000|Delievered|delstaff|delstaff
+124124130|2customer|26/11/2020 12:06|3.0|Customer2|CustomerAddress|asdf|asfd|2.0x3.0x4.0|1.0|27/11/2020|Awaiting Pick Up|delstaff|delstaff
+124124131|2customer|26/11/2020 12:15|3.0|Customer2|CustomerAddress|asdf|asfd|2.0x3.0x4.0|1.0|27/11/2020|Picked Up|delstaff|delstaff
+124124132|2customer|26/11/2020 12:26|3.0|Customer2|CustomerAddress|asdf|asfd|2.0x3.0x4.0|1.0|27/11/2020|Delievered|delstaff|delstaff
+124124133|otherCustomer|26/11/2020 14:26|3.0|Customer2|CustomerAddress|asdf|asfd|2.0x3.0x4.0|1.0|28/11/2020|Delievered|delstaff|delstaff
+124124134|2customer|26/11/2020 16:46|3.0|Customer2|CustomerAddress|asdf|asfdasdfasdfasdf|2.0x3.0x4.0|1.0|27/11/2020|Awaiting Pick Up|delstaff|null
+124124135|2customer|26/11/2020 16:46|3.0|Customer2|CustomerAddress|asdf|asfdasdfasdfasdf|2.0x3.0x4.0|1.0|27/11/2020|Unpaid|null|null
+124124136|customer|27/11/2020 09:34|3.0|customer|CustomerAddress|asdf|asfd|10.0x40.0x40.0|5.0|28/11/2020|Awaiting Confirmation|null|null
